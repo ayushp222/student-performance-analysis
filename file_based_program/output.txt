@@ -1,0 +1,10 @@
+Sum: 15
+Odd or Even: Odd
+Factorial: 120
+Fibonacci: [0, 1, 1, 2, 3, 5]
+Reversed String: olleh
+Is Palindrome: True
+Is Leap Year: True
+Is Armstrong: True
+Encrypted: Khoor Pdlqiorz 123!
+Decrypted: Hello Mainflow 123!
