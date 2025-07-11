@@ -10,3 +10,4 @@ Python developer task.
 
 Mern Stack Project
 
+SQl developer project
